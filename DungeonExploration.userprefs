@@ -5,7 +5,7 @@
       <File FileName="Assets/Scripts/gameController.js" Line="8" Column="1" />
       <File FileName="Assets/Scripts/PrefabGoBoom.js" Line="8" Column="2" />
       <File FileName="Assets/Scripts/PlayerControler.js" Line="11" Column="3" />
-      <File FileName="Assets/Scripts/playerControl.js" Line="12" Column="38" />
+      <File FileName="Assets/Scripts/playerControl.js" Line="78" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

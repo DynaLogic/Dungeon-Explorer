@@ -35,6 +35,14 @@ function Update () {
 		playerAnim.SetTrigger("running");
 		playerAnim.SetBool("Dead",true);
 	}
+	if(Input.GetAxis("Horizontal"))
+	{
+		playerAnim.SetTrigger("running");
+	}
+	if(!Input.GetAxis("Horizontal"))
+	{
+		playerAnim.SetTrigger("idle");
+	}
 }
 
 function Move()
